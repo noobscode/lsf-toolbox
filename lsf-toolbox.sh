@@ -2,11 +2,11 @@
 
 function header {
 cat << "EOF"
-# LSF Toolkit
+# LSF Toolbox
 # Author: Alexander A. Nordbo¸
 # https://github.com/noobscode
 #
-# This Toolkit was made to simplify the use of LSF cluster commands
+# This Toolbox was made to simplify the use of LSF cluster commands
 
 EOF
 }
