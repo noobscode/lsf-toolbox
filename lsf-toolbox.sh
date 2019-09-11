@@ -3,7 +3,7 @@
 function header {
 cat << "EOF"
 # LSF Toolkit
-# Author: Alexander A. NordbÃ¸
+# Author: Alexander A. Nordbo¸
 # https://github.com/noobscode
 #
 # This Toolkit was made to simplify the use of LSF cluster commands
